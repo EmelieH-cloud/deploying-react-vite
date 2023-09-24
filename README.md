@@ -27,3 +27,7 @@ RESET
 GAMEOVER
 
 ![image](https://github.com/emeliehensfelt/deploying-react-vite/assets/137898083/5fee530c-0109-4f5b-a1c6-498b82e10d3e)
+
+TICTACTOE 
+This component withholds an array-list with the winning combinations. 
+![image](https://github.com/emeliehensfelt/deploying-react-vite/assets/137898083/e581b560-6bff-4a4a-9ed3-cf6400749db9)
