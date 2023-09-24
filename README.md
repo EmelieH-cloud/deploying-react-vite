@@ -31,3 +31,5 @@ GAMEOVER
 TICTACTOE 
 This component withholds an array-list with the winning combinations. 
 ![image](https://github.com/emeliehensfelt/deploying-react-vite/assets/137898083/e581b560-6bff-4a4a-9ed3-cf6400749db9)
+
+![image](https://github.com/emeliehensfelt/deploying-react-vite/assets/137898083/0a1a4438-f9a7-4477-b3d3-4f576e2d838b)
